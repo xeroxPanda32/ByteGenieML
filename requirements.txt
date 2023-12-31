@@ -1,0 +1,7 @@
+fastapi 
+pyngrok
+uvicorn 
+python-multipart 
+kaleido 
+nest_asyncio
+pyngrok
